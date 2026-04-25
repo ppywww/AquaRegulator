@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/cmake_install.cmake",
+		"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/3rdparty/libmodbus/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,2071 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.26200 - AMD64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCCompilerId.c.in"
+    candidate_directories:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/"
+    found: "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerId.c.in"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\tools\\\\trae-gopls\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\workspaces\\\\0d2d6906\\\\versions\\\\node\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\versions\\\\node\\\\current"
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\Users\\lenovo\\.trae-cn\\tools\\trae-gopls\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\workspaces\\0d2d6906\\versions\\node\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\versions\\node\\current"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "D:\\VMware\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "D:\\mingw64\\bin"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Java\\jdk1.8.0_201\\bin"
+        - "E:\\android\\apache-ant-1.10.12\\bin"
+        - "E:\\android\\android_SDK\\tools"
+        - "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "D:\\My_Projects\\AquaRegulator\\vcpkg"
+        - "C:\\Program Files\\PowerShell\\7\\"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "D:\\Scripts\\"
+        - "D:\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\lenovo\\.dotnet\\tools"
+        - "C:\\Program Files\\Bandizip\\"
+        - "D:\\PyCharm Community Edition 2024.3.1.1\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "D:\\anaconda"
+        - "D:\\anaconda\\Scripts"
+        - "D:\\anaconda\\Library\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Roaming\\npm"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.4.0+6e61e96ac
+      鐢熸垚鍚姩鏃堕棿涓?2026/4/7 20:38:08銆?
+      
+      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\4.2.0\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)銆?
+      PrepareForBuild:
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
+        宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\CompilerIdC.tlog\\鈥濄€?
+      InitializeBuildStatus:
+        姝ｅ湪鍒涘缓鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc145.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\4.2.0\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdC.tlog\\unsuccessfulbuild鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+      宸插畬鎴愮敓鎴愰」鐩€淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\4.2.0\\CompilerIdC\\CompilerIdC.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      
+      宸叉垚鍔熺敓鎴愩€?
+          0 涓鍛?
+          0 涓敊璇?
+      
+      宸茬敤鏃堕棿 00:00:02.65
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/4.2.0/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:103 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Program Files/PowerShell/7/"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "D:/VMware/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
+      - "D:/mingw64/bin/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Users/lenovo/AppData/Local/nvm/"
+      - "C:/nvm4w/nodejs/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/"
+      - "E:/android/apache-ant-1.10.12/bin/"
+      - "E:/android/android_SDK/tools/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "D:/My_Projects/AquaRegulator/vcpkg/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "D:/Scripts/"
+      - "D:/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/lenovo/.dotnet/tools/"
+      - "C:/Program Files/Bandizip/"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "D:/anaconda/"
+      - "D:/anaconda/Scripts/"
+      - "D:/anaconda/Library/bin/"
+      - "C:/Users/lenovo/AppData/Roaming/npm/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.com"
+    found: "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\tools\\\\trae-gopls\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\workspaces\\\\0d2d6906\\\\versions\\\\node\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\versions\\\\node\\\\current"
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\Users\\lenovo\\.trae-cn\\tools\\trae-gopls\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\workspaces\\0d2d6906\\versions\\node\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\versions\\node\\current"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "D:\\VMware\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "D:\\mingw64\\bin"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Java\\jdk1.8.0_201\\bin"
+        - "E:\\android\\apache-ant-1.10.12\\bin"
+        - "E:\\android\\android_SDK\\tools"
+        - "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "D:\\My_Projects\\AquaRegulator\\vcpkg"
+        - "C:\\Program Files\\PowerShell\\7\\"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "D:\\Scripts\\"
+        - "D:\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\lenovo\\.dotnet\\tools"
+        - "C:\\Program Files\\Bandizip\\"
+        - "D:\\PyCharm Community Edition 2024.3.1.1\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "D:\\anaconda"
+        - "D:\\anaconda\\Scripts"
+        - "D:\\anaconda\\Library\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Roaming\\npm"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:104 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lld-link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Program Files/PowerShell/7/"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "D:/VMware/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
+      - "D:/mingw64/bin/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Users/lenovo/AppData/Local/nvm/"
+      - "C:/nvm4w/nodejs/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/"
+      - "E:/android/apache-ant-1.10.12/bin/"
+      - "E:/android/android_SDK/tools/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "D:/My_Projects/AquaRegulator/vcpkg/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "D:/Scripts/"
+      - "D:/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/lenovo/.dotnet/tools/"
+      - "C:/Program Files/Bandizip/"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "D:/anaconda/"
+      - "D:/anaconda/Scripts/"
+      - "D:/anaconda/Library/bin/"
+      - "C:/Users/lenovo/AppData/Roaming/npm/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link"
+      - "C:/Program Files/PowerShell/7/lld-link.com"
+      - "C:/Program Files/PowerShell/7/lld-link.exe"
+      - "C:/Program Files/PowerShell/7/lld-link"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/lld-link.com"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/lld-link.exe"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/lld-link"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/lld-link.com"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/lld-link.exe"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/lld-link"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/lld-link.com"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/lld-link.exe"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/lld-link"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Python314/Scripts/lld-link.com"
+      - "C:/Python314/Scripts/lld-link.exe"
+      - "C:/Python314/Scripts/lld-link"
+      - "C:/Python314/lld-link.com"
+      - "C:/Python314/lld-link.exe"
+      - "C:/Python314/lld-link"
+      - "D:/VMware/bin/lld-link.com"
+      - "D:/VMware/bin/lld-link.exe"
+      - "D:/VMware/bin/lld-link"
+      - "C:/Windows/System32/lld-link.com"
+      - "C:/Windows/System32/lld-link.exe"
+      - "C:/Windows/System32/lld-link"
+      - "C:/Windows/lld-link.com"
+      - "C:/Windows/lld-link.exe"
+      - "C:/Windows/lld-link"
+      - "C:/Windows/System32/wbem/lld-link.com"
+      - "C:/Windows/System32/wbem/lld-link.exe"
+      - "C:/Windows/System32/wbem/lld-link"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link"
+      - "C:/Windows/System32/OpenSSH/lld-link.com"
+      - "C:/Windows/System32/OpenSSH/lld-link.exe"
+      - "C:/Windows/System32/OpenSSH/lld-link"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link"
+      - "C:/Program Files/dotnet/lld-link.com"
+      - "C:/Program Files/dotnet/lld-link.exe"
+      - "C:/Program Files/dotnet/lld-link"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/lld-link.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/lld-link.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/lld-link"
+      - "D:/mingw64/bin/lld-link.com"
+      - "D:/mingw64/bin/lld-link.exe"
+      - "D:/mingw64/bin/lld-link"
+      - "C:/ProgramData/chocolatey/bin/lld-link.com"
+      - "C:/ProgramData/chocolatey/bin/lld-link.exe"
+      - "C:/ProgramData/chocolatey/bin/lld-link"
+      - "C:/Users/lenovo/AppData/Local/nvm/lld-link.com"
+      - "C:/Users/lenovo/AppData/Local/nvm/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Local/nvm/lld-link"
+      - "C:/nvm4w/nodejs/lld-link.com"
+      - "C:/nvm4w/nodejs/lld-link.exe"
+      - "C:/nvm4w/nodejs/lld-link"
+      - "C:/Program Files/CMake/bin/lld-link.com"
+      - "C:/Program Files/CMake/bin/lld-link.exe"
+      - "C:/Program Files/CMake/bin/lld-link"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/lld-link.com"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/lld-link.exe"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/lld-link"
+      - "E:/android/apache-ant-1.10.12/bin/lld-link.com"
+      - "E:/android/apache-ant-1.10.12/bin/lld-link.exe"
+      - "E:/android/apache-ant-1.10.12/bin/lld-link"
+      - "E:/android/android_SDK/tools/lld-link.com"
+      - "E:/android/android_SDK/tools/lld-link.exe"
+      - "E:/android/android_SDK/tools/lld-link"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/lld-link.com"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/lld-link.exe"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link"
+      - "C:/Program Files/Git/cmd/lld-link.com"
+      - "C:/Program Files/Git/cmd/lld-link.exe"
+      - "C:/Program Files/Git/cmd/lld-link"
+      - "D:/My_Projects/AquaRegulator/vcpkg/lld-link.com"
+      - "D:/My_Projects/AquaRegulator/vcpkg/lld-link.exe"
+      - "D:/My_Projects/AquaRegulator/vcpkg/lld-link"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/lld-link.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/lld-link.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/lld-link"
+      - "D:/Scripts/lld-link.com"
+      - "D:/Scripts/lld-link.exe"
+      - "D:/Scripts/lld-link"
+      - "D:/lld-link.com"
+      - "D:/lld-link.exe"
+      - "D:/lld-link"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/lld-link.com"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/lld-link"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/lld-link.com"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/lld-link"
+      - "C:/Users/lenovo/.dotnet/tools/lld-link.com"
+      - "C:/Users/lenovo/.dotnet/tools/lld-link.exe"
+      - "C:/Users/lenovo/.dotnet/tools/lld-link"
+      - "C:/Program Files/Bandizip/lld-link.com"
+      - "C:/Program Files/Bandizip/lld-link.exe"
+      - "C:/Program Files/Bandizip/lld-link"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/lld-link.com"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/lld-link.exe"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/lld-link"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.com"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/lld-link"
+      - "D:/anaconda/lld-link.com"
+      - "D:/anaconda/lld-link.exe"
+      - "D:/anaconda/lld-link"
+      - "D:/anaconda/Scripts/lld-link.com"
+      - "D:/anaconda/Scripts/lld-link.exe"
+      - "D:/anaconda/Scripts/lld-link"
+      - "D:/anaconda/Library/bin/lld-link.com"
+      - "D:/anaconda/Library/bin/lld-link.exe"
+      - "D:/anaconda/Library/bin/lld-link"
+      - "C:/Users/lenovo/AppData/Roaming/npm/lld-link.com"
+      - "C:/Users/lenovo/AppData/Roaming/npm/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Roaming/npm/lld-link"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\tools\\\\trae-gopls\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\workspaces\\\\0d2d6906\\\\versions\\\\node\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\versions\\\\node\\\\current"
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\Users\\lenovo\\.trae-cn\\tools\\trae-gopls\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\workspaces\\0d2d6906\\versions\\node\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\versions\\node\\current"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "D:\\VMware\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "D:\\mingw64\\bin"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Java\\jdk1.8.0_201\\bin"
+        - "E:\\android\\apache-ant-1.10.12\\bin"
+        - "E:\\android\\android_SDK\\tools"
+        - "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "D:\\My_Projects\\AquaRegulator\\vcpkg"
+        - "C:\\Program Files\\PowerShell\\7\\"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "D:\\Scripts\\"
+        - "D:\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\lenovo\\.dotnet\\tools"
+        - "C:\\Program Files\\Bandizip\\"
+        - "D:\\PyCharm Community Edition 2024.3.1.1\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "D:\\anaconda"
+        - "D:\\anaconda\\Scripts"
+        - "D:\\anaconda\\Library\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Roaming\\npm"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_LINKER"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Program Files/PowerShell/7/"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "D:/VMware/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
+      - "D:/mingw64/bin/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Users/lenovo/AppData/Local/nvm/"
+      - "C:/nvm4w/nodejs/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/"
+      - "E:/android/apache-ant-1.10.12/bin/"
+      - "E:/android/android_SDK/tools/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "D:/My_Projects/AquaRegulator/vcpkg/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "D:/Scripts/"
+      - "D:/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/lenovo/.dotnet/tools/"
+      - "C:/Program Files/Bandizip/"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "D:/anaconda/"
+      - "D:/anaconda/Scripts/"
+      - "D:/anaconda/Library/bin/"
+      - "C:/Users/lenovo/AppData/Roaming/npm/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.com"
+    found: "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\tools\\\\trae-gopls\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\workspaces\\\\0d2d6906\\\\versions\\\\node\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\versions\\\\node\\\\current"
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\Users\\lenovo\\.trae-cn\\tools\\trae-gopls\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\workspaces\\0d2d6906\\versions\\node\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\versions\\node\\current"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "D:\\VMware\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "D:\\mingw64\\bin"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Java\\jdk1.8.0_201\\bin"
+        - "E:\\android\\apache-ant-1.10.12\\bin"
+        - "E:\\android\\android_SDK\\tools"
+        - "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "D:\\My_Projects\\AquaRegulator\\vcpkg"
+        - "C:\\Program Files\\PowerShell\\7\\"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "D:\\Scripts\\"
+        - "D:\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\lenovo\\.dotnet\\tools"
+        - "C:\\Program Files\\Bandizip\\"
+        - "D:\\PyCharm Community Edition 2024.3.1.1\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "D:\\anaconda"
+        - "D:\\anaconda\\Scripts"
+        - "D:\\anaconda\\Library\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Roaming\\npm"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_MT"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "mt"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Program Files/PowerShell/7/"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "D:/VMware/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
+      - "D:/mingw64/bin/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Users/lenovo/AppData/Local/nvm/"
+      - "C:/nvm4w/nodejs/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/"
+      - "E:/android/apache-ant-1.10.12/bin/"
+      - "E:/android/android_SDK/tools/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "D:/My_Projects/AquaRegulator/vcpkg/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "D:/Scripts/"
+      - "D:/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/lenovo/.dotnet/tools/"
+      - "C:/Program Files/Bandizip/"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "D:/anaconda/"
+      - "D:/anaconda/Scripts/"
+      - "D:/anaconda/Library/bin/"
+      - "C:/Users/lenovo/AppData/Roaming/npm/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/mt.com"
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/mt.exe"
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/mt"
+      - "C:/Program Files/PowerShell/7/mt.com"
+      - "C:/Program Files/PowerShell/7/mt.exe"
+      - "C:/Program Files/PowerShell/7/mt"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/mt.com"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/mt.exe"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/mt"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/mt.com"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/mt.exe"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/mt"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/mt.com"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/mt.exe"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/mt"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/mt.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/mt.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/mt"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/mt.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/mt.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/mt"
+      - "C:/Python314/Scripts/mt.com"
+      - "C:/Python314/Scripts/mt.exe"
+      - "C:/Python314/Scripts/mt"
+      - "C:/Python314/mt.com"
+      - "C:/Python314/mt.exe"
+      - "C:/Python314/mt"
+      - "D:/VMware/bin/mt.com"
+      - "D:/VMware/bin/mt.exe"
+      - "D:/VMware/bin/mt"
+      - "C:/Windows/System32/mt.com"
+      - "C:/Windows/System32/mt.exe"
+      - "C:/Windows/System32/mt"
+      - "C:/Windows/mt.com"
+      - "C:/Windows/mt.exe"
+      - "C:/Windows/mt"
+      - "C:/Windows/System32/wbem/mt.com"
+      - "C:/Windows/System32/wbem/mt.exe"
+      - "C:/Windows/System32/wbem/mt"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mt.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mt.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mt"
+      - "C:/Windows/System32/OpenSSH/mt.com"
+      - "C:/Windows/System32/OpenSSH/mt.exe"
+      - "C:/Windows/System32/OpenSSH/mt"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/mt.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/mt.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/mt"
+      - "C:/Program Files/dotnet/mt.com"
+      - "C:/Program Files/dotnet/mt.exe"
+      - "C:/Program Files/dotnet/mt"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/mt.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/mt.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/mt"
+      - "D:/mingw64/bin/mt.com"
+      - "D:/mingw64/bin/mt.exe"
+      - "D:/mingw64/bin/mt"
+      - "C:/ProgramData/chocolatey/bin/mt.com"
+      - "C:/ProgramData/chocolatey/bin/mt.exe"
+      - "C:/ProgramData/chocolatey/bin/mt"
+      - "C:/Users/lenovo/AppData/Local/nvm/mt.com"
+      - "C:/Users/lenovo/AppData/Local/nvm/mt.exe"
+      - "C:/Users/lenovo/AppData/Local/nvm/mt"
+      - "C:/nvm4w/nodejs/mt.com"
+      - "C:/nvm4w/nodejs/mt.exe"
+      - "C:/nvm4w/nodejs/mt"
+      - "C:/Program Files/CMake/bin/mt.com"
+      - "C:/Program Files/CMake/bin/mt.exe"
+      - "C:/Program Files/CMake/bin/mt"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/mt.com"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/mt.exe"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/mt"
+      - "E:/android/apache-ant-1.10.12/bin/mt.com"
+      - "E:/android/apache-ant-1.10.12/bin/mt.exe"
+      - "E:/android/apache-ant-1.10.12/bin/mt"
+      - "E:/android/android_SDK/tools/mt.com"
+      - "E:/android/android_SDK/tools/mt.exe"
+      - "E:/android/android_SDK/tools/mt"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/mt.com"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/mt.exe"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/mt"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/mt.com"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/mt.exe"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/mt"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/mt.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/mt.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/mt"
+      - "C:/Program Files/Git/cmd/mt.com"
+      - "C:/Program Files/Git/cmd/mt.exe"
+      - "C:/Program Files/Git/cmd/mt"
+      - "D:/My_Projects/AquaRegulator/vcpkg/mt.com"
+      - "D:/My_Projects/AquaRegulator/vcpkg/mt.exe"
+      - "D:/My_Projects/AquaRegulator/vcpkg/mt"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/mt.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/mt.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/mt"
+      - "D:/Scripts/mt.com"
+      - "D:/Scripts/mt.exe"
+      - "D:/Scripts/mt"
+      - "D:/mt.com"
+      - "D:/mt.exe"
+      - "D:/mt"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/mt.com"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/mt.exe"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/mt"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/mt.com"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/mt.exe"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/mt"
+      - "C:/Users/lenovo/.dotnet/tools/mt.com"
+      - "C:/Users/lenovo/.dotnet/tools/mt.exe"
+      - "C:/Users/lenovo/.dotnet/tools/mt"
+      - "C:/Program Files/Bandizip/mt.com"
+      - "C:/Program Files/Bandizip/mt.exe"
+      - "C:/Program Files/Bandizip/mt"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/mt.com"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/mt.exe"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/mt"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/mt.com"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/mt.exe"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/mt"
+      - "D:/anaconda/mt.com"
+      - "D:/anaconda/mt.exe"
+      - "D:/anaconda/mt"
+      - "D:/anaconda/Scripts/mt.com"
+      - "D:/anaconda/Scripts/mt.exe"
+      - "D:/anaconda/Scripts/mt"
+      - "D:/anaconda/Library/bin/mt.com"
+      - "D:/anaconda/Library/bin/mt.exe"
+      - "D:/anaconda/Library/bin/mt"
+      - "C:/Users/lenovo/AppData/Roaming/npm/mt.com"
+      - "C:/Users/lenovo/AppData/Roaming/npm/mt.exe"
+      - "C:/Users/lenovo/AppData/Roaming/npm/mt"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\tools\\\\trae-gopls\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\workspaces\\\\0d2d6906\\\\versions\\\\node\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\versions\\\\node\\\\current"
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\Users\\lenovo\\.trae-cn\\tools\\trae-gopls\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\workspaces\\0d2d6906\\versions\\node\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\versions\\node\\current"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "D:\\VMware\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "D:\\mingw64\\bin"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Java\\jdk1.8.0_201\\bin"
+        - "E:\\android\\apache-ant-1.10.12\\bin"
+        - "E:\\android\\android_SDK\\tools"
+        - "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "D:\\My_Projects\\AquaRegulator\\vcpkg"
+        - "C:\\Program Files\\PowerShell\\7\\"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "D:\\Scripts\\"
+        - "D:\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\lenovo\\.dotnet\\tools"
+        - "C:\\Program Files\\Bandizip\\"
+        - "D:\\PyCharm Community Edition 2024.3.1.1\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "D:\\anaconda"
+        - "D:\\anaconda\\Scripts"
+        - "D:\\anaconda\\Library\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Roaming\\npm"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCCompiler.cmake:200 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_AR"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lib"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Program Files/PowerShell/7/"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "D:/VMware/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
+      - "D:/mingw64/bin/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Users/lenovo/AppData/Local/nvm/"
+      - "C:/nvm4w/nodejs/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/"
+      - "E:/android/apache-ant-1.10.12/bin/"
+      - "E:/android/android_SDK/tools/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "D:/My_Projects/AquaRegulator/vcpkg/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "D:/Scripts/"
+      - "D:/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/lenovo/.dotnet/tools/"
+      - "C:/Program Files/Bandizip/"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "D:/anaconda/"
+      - "D:/anaconda/Scripts/"
+      - "D:/anaconda/Library/bin/"
+      - "C:/Users/lenovo/AppData/Roaming/npm/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lib.com"
+    found: "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lib.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\tools\\\\trae-gopls\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\workspaces\\\\0d2d6906\\\\versions\\\\node\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\versions\\\\node\\\\current"
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\Users\\lenovo\\.trae-cn\\tools\\trae-gopls\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\workspaces\\0d2d6906\\versions\\node\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\versions\\node\\current"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "D:\\VMware\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "D:\\mingw64\\bin"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Java\\jdk1.8.0_201\\bin"
+        - "E:\\android\\apache-ant-1.10.12\\bin"
+        - "E:\\android\\android_SDK\\tools"
+        - "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "D:\\My_Projects\\AquaRegulator\\vcpkg"
+        - "C:\\Program Files\\PowerShell\\7\\"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "D:\\Scripts\\"
+        - "D:\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\lenovo\\.dotnet\\tools"
+        - "C:\\Program Files\\Bandizip\\"
+        - "D:\\PyCharm Community Edition 2024.3.1.1\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "D:\\anaconda"
+        - "D:\\anaconda\\Scripts"
+        - "D:\\anaconda\\Library\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Roaming\\npm"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/"
+    found: "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\tools\\\\trae-gopls\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\workspaces\\\\0d2d6906\\\\versions\\\\node\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\versions\\\\node\\\\current"
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\Users\\lenovo\\.trae-cn\\tools\\trae-gopls\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\workspaces\\0d2d6906\\versions\\node\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\versions\\node\\current"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "D:\\VMware\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "D:\\mingw64\\bin"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Java\\jdk1.8.0_201\\bin"
+        - "E:\\android\\apache-ant-1.10.12\\bin"
+        - "E:\\android\\android_SDK\\tools"
+        - "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "D:\\My_Projects\\AquaRegulator\\vcpkg"
+        - "C:\\Program Files\\PowerShell\\7\\"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "D:\\Scripts\\"
+        - "D:\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\lenovo\\.dotnet\\tools"
+        - "C:\\Program Files\\Bandizip\\"
+        - "D:\\PyCharm Community Edition 2024.3.1.1\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "D:\\anaconda"
+        - "D:\\anaconda\\Scripts"
+        - "D:\\anaconda\\Library\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Roaming\\npm"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.4.0+6e61e96ac
+      鐢熸垚鍚姩鏃堕棿涓?2026/4/7 20:38:11銆?
+      
+      鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\4.2.0\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
+      PrepareForBuild:
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
+        宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\CompilerIdCXX.tlog\\鈥濄€?
+      InitializeBuildStatus:
+        姝ｅ湪鍒涘缓鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc145.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\4.2.0\\CompilerIdCXX\\CompilerIdCXX.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+      宸插畬鎴愮敓鎴愰」鐩€淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\4.2.0\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      
+      宸叉垚鍔熺敓鎴愩€?
+          0 涓鍛?
+          0 涓敊璇?
+      
+      宸茬敤鏃堕棿 00:00:01.97
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/4.2.0/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:104 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lld-link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Program Files/PowerShell/7/"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "D:/VMware/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
+      - "D:/mingw64/bin/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Users/lenovo/AppData/Local/nvm/"
+      - "C:/nvm4w/nodejs/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/"
+      - "E:/android/apache-ant-1.10.12/bin/"
+      - "E:/android/android_SDK/tools/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "D:/My_Projects/AquaRegulator/vcpkg/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "D:/Scripts/"
+      - "D:/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/lenovo/.dotnet/tools/"
+      - "C:/Program Files/Bandizip/"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "D:/anaconda/"
+      - "D:/anaconda/Scripts/"
+      - "D:/anaconda/Library/bin/"
+      - "C:/Users/lenovo/AppData/Roaming/npm/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link"
+      - "C:/Program Files/PowerShell/7/lld-link.com"
+      - "C:/Program Files/PowerShell/7/lld-link.exe"
+      - "C:/Program Files/PowerShell/7/lld-link"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/lld-link.com"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/lld-link.exe"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/lld-link"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/lld-link.com"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/lld-link.exe"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/lld-link"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/lld-link.com"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/lld-link.exe"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/lld-link"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/lld-link"
+      - "C:/Python314/Scripts/lld-link.com"
+      - "C:/Python314/Scripts/lld-link.exe"
+      - "C:/Python314/Scripts/lld-link"
+      - "C:/Python314/lld-link.com"
+      - "C:/Python314/lld-link.exe"
+      - "C:/Python314/lld-link"
+      - "D:/VMware/bin/lld-link.com"
+      - "D:/VMware/bin/lld-link.exe"
+      - "D:/VMware/bin/lld-link"
+      - "C:/Windows/System32/lld-link.com"
+      - "C:/Windows/System32/lld-link.exe"
+      - "C:/Windows/System32/lld-link"
+      - "C:/Windows/lld-link.com"
+      - "C:/Windows/lld-link.exe"
+      - "C:/Windows/lld-link"
+      - "C:/Windows/System32/wbem/lld-link.com"
+      - "C:/Windows/System32/wbem/lld-link.exe"
+      - "C:/Windows/System32/wbem/lld-link"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link"
+      - "C:/Windows/System32/OpenSSH/lld-link.com"
+      - "C:/Windows/System32/OpenSSH/lld-link.exe"
+      - "C:/Windows/System32/OpenSSH/lld-link"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/lld-link"
+      - "C:/Program Files/dotnet/lld-link.com"
+      - "C:/Program Files/dotnet/lld-link.exe"
+      - "C:/Program Files/dotnet/lld-link"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/lld-link.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/lld-link.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/lld-link"
+      - "D:/mingw64/bin/lld-link.com"
+      - "D:/mingw64/bin/lld-link.exe"
+      - "D:/mingw64/bin/lld-link"
+      - "C:/ProgramData/chocolatey/bin/lld-link.com"
+      - "C:/ProgramData/chocolatey/bin/lld-link.exe"
+      - "C:/ProgramData/chocolatey/bin/lld-link"
+      - "C:/Users/lenovo/AppData/Local/nvm/lld-link.com"
+      - "C:/Users/lenovo/AppData/Local/nvm/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Local/nvm/lld-link"
+      - "C:/nvm4w/nodejs/lld-link.com"
+      - "C:/nvm4w/nodejs/lld-link.exe"
+      - "C:/nvm4w/nodejs/lld-link"
+      - "C:/Program Files/CMake/bin/lld-link.com"
+      - "C:/Program Files/CMake/bin/lld-link.exe"
+      - "C:/Program Files/CMake/bin/lld-link"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/lld-link.com"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/lld-link.exe"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/lld-link"
+      - "E:/android/apache-ant-1.10.12/bin/lld-link.com"
+      - "E:/android/apache-ant-1.10.12/bin/lld-link.exe"
+      - "E:/android/apache-ant-1.10.12/bin/lld-link"
+      - "E:/android/android_SDK/tools/lld-link.com"
+      - "E:/android/android_SDK/tools/lld-link.exe"
+      - "E:/android/android_SDK/tools/lld-link"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/lld-link.com"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/lld-link.exe"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link"
+      - "C:/Program Files/Git/cmd/lld-link.com"
+      - "C:/Program Files/Git/cmd/lld-link.exe"
+      - "C:/Program Files/Git/cmd/lld-link"
+      - "D:/My_Projects/AquaRegulator/vcpkg/lld-link.com"
+      - "D:/My_Projects/AquaRegulator/vcpkg/lld-link.exe"
+      - "D:/My_Projects/AquaRegulator/vcpkg/lld-link"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/lld-link.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/lld-link.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/lld-link"
+      - "D:/Scripts/lld-link.com"
+      - "D:/Scripts/lld-link.exe"
+      - "D:/Scripts/lld-link"
+      - "D:/lld-link.com"
+      - "D:/lld-link.exe"
+      - "D:/lld-link"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/lld-link.com"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/lld-link"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/lld-link.com"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/lld-link"
+      - "C:/Users/lenovo/.dotnet/tools/lld-link.com"
+      - "C:/Users/lenovo/.dotnet/tools/lld-link.exe"
+      - "C:/Users/lenovo/.dotnet/tools/lld-link"
+      - "C:/Program Files/Bandizip/lld-link.com"
+      - "C:/Program Files/Bandizip/lld-link.exe"
+      - "C:/Program Files/Bandizip/lld-link"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/lld-link.com"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/lld-link.exe"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/lld-link"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.com"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/lld-link"
+      - "D:/anaconda/lld-link.com"
+      - "D:/anaconda/lld-link.exe"
+      - "D:/anaconda/lld-link"
+      - "D:/anaconda/Scripts/lld-link.com"
+      - "D:/anaconda/Scripts/lld-link.exe"
+      - "D:/anaconda/Scripts/lld-link"
+      - "D:/anaconda/Library/bin/lld-link.com"
+      - "D:/anaconda/Library/bin/lld-link.exe"
+      - "D:/anaconda/Library/bin/lld-link"
+      - "C:/Users/lenovo/AppData/Roaming/npm/lld-link.com"
+      - "C:/Users/lenovo/AppData/Roaming/npm/lld-link.exe"
+      - "C:/Users/lenovo/AppData/Roaming/npm/lld-link"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\tools\\\\trae-gopls\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\workspaces\\\\0d2d6906\\\\versions\\\\node\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\versions\\\\node\\\\current"
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\Users\\lenovo\\.trae-cn\\tools\\trae-gopls\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\workspaces\\0d2d6906\\versions\\node\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\versions\\node\\current"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "D:\\VMware\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "D:\\mingw64\\bin"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Java\\jdk1.8.0_201\\bin"
+        - "E:\\android\\apache-ant-1.10.12\\bin"
+        - "E:\\android\\android_SDK\\tools"
+        - "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "D:\\My_Projects\\AquaRegulator\\vcpkg"
+        - "C:\\Program Files\\PowerShell\\7\\"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "D:\\Scripts\\"
+        - "D:\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\lenovo\\.dotnet\\tools"
+        - "C:\\Program Files\\Bandizip\\"
+        - "D:\\PyCharm Community Edition 2024.3.1.1\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "D:\\anaconda"
+        - "D:\\anaconda\\Scripts"
+        - "D:\\anaconda\\Library\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Roaming\\npm"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineRCCompiler.cmake:40 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC.cmake:580 (enable_language)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC.cmake:553 (__windows_compiler_msvc_enable_rc)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC-C.cmake:5 (__windows_compiler_msvc)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCInformation.cmake:48 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RC_COMPILER"
+    description: "RC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "rc"
+    candidate_directories:
+      - "C:/Program Files/PowerShell/7/"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/"
+      - "C:/Python314/Scripts/"
+      - "C:/Python314/"
+      - "D:/VMware/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/"
+      - "D:/mingw64/bin/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/Users/lenovo/AppData/Local/nvm/"
+      - "C:/nvm4w/nodejs/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/"
+      - "E:/android/apache-ant-1.10.12/bin/"
+      - "E:/android/android_SDK/tools/"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "D:/My_Projects/AquaRegulator/vcpkg/"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/"
+      - "D:/Scripts/"
+      - "D:/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/lenovo/.dotnet/tools/"
+      - "C:/Program Files/Bandizip/"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "D:/anaconda/"
+      - "D:/anaconda/Scripts/"
+      - "D:/anaconda/Library/bin/"
+      - "C:/Users/lenovo/AppData/Roaming/npm/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/sbin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/AquaRegulator/bin/"
+      - "C:/Program Files (x86)/AquaRegulator/sbin/"
+      - "C:/Program Files (x86)/AquaRegulator/"
+    searched_directories:
+      - "C:/Program Files/PowerShell/7/rc.com"
+      - "C:/Program Files/PowerShell/7/rc.exe"
+      - "C:/Program Files/PowerShell/7/rc"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/rc.com"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/rc.exe"
+      - "C:/Users/lenovo/.trae-cn/tools/trae-gopls/current/rc"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/rc.com"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/rc.exe"
+      - "C:/Users/lenovo/.trae-cn/sdks/workspaces/0d2d6906/versions/node/current/rc"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/rc.com"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/rc.exe"
+      - "C:/Users/lenovo/.trae-cn/sdks/versions/node/current/rc"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/rc.com"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/rc.exe"
+      - "C:/Program Files/Common Files/Oracle/Java/javapath/rc"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/rc.com"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/rc.exe"
+      - "C:/Program Files (x86)/Common Files/Oracle/Java/javapath/rc"
+      - "C:/Python314/Scripts/rc.com"
+      - "C:/Python314/Scripts/rc.exe"
+      - "C:/Python314/Scripts/rc"
+      - "C:/Python314/rc.com"
+      - "C:/Python314/rc.exe"
+      - "C:/Python314/rc"
+      - "D:/VMware/bin/rc.com"
+      - "D:/VMware/bin/rc.exe"
+      - "D:/VMware/bin/rc"
+      - "C:/Windows/System32/rc.com"
+      - "C:/Windows/System32/rc.exe"
+      - "C:/Windows/System32/rc"
+      - "C:/Windows/rc.com"
+      - "C:/Windows/rc.exe"
+      - "C:/Windows/rc"
+      - "C:/Windows/System32/wbem/rc.com"
+      - "C:/Windows/System32/wbem/rc.exe"
+      - "C:/Windows/System32/wbem/rc"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/rc.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/rc.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/rc"
+      - "C:/Windows/System32/OpenSSH/rc.com"
+      - "C:/Windows/System32/OpenSSH/rc.exe"
+      - "C:/Windows/System32/OpenSSH/rc"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/rc.com"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/rc.exe"
+      - "C:/Program Files (x86)/NVIDIA Corporation/PhysX/Common/rc"
+      - "C:/Program Files/dotnet/rc.com"
+      - "C:/Program Files/dotnet/rc.exe"
+      - "C:/Program Files/dotnet/rc"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/rc.com"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/rc.exe"
+      - "C:/Program Files/NVIDIA Corporation/NVIDIA app/NvDLISR/rc"
+      - "D:/mingw64/bin/rc.com"
+      - "D:/mingw64/bin/rc.exe"
+      - "D:/mingw64/bin/rc"
+      - "C:/ProgramData/chocolatey/bin/rc.com"
+      - "C:/ProgramData/chocolatey/bin/rc.exe"
+      - "C:/ProgramData/chocolatey/bin/rc"
+      - "C:/Users/lenovo/AppData/Local/nvm/rc.com"
+      - "C:/Users/lenovo/AppData/Local/nvm/rc.exe"
+      - "C:/Users/lenovo/AppData/Local/nvm/rc"
+      - "C:/nvm4w/nodejs/rc.com"
+      - "C:/nvm4w/nodejs/rc.exe"
+      - "C:/nvm4w/nodejs/rc"
+      - "C:/Program Files/CMake/bin/rc.com"
+      - "C:/Program Files/CMake/bin/rc.exe"
+      - "C:/Program Files/CMake/bin/rc"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/rc.com"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/rc.exe"
+      - "C:/Program Files/Java/jdk1.8.0_201/bin/rc"
+      - "E:/android/apache-ant-1.10.12/bin/rc.com"
+      - "E:/android/apache-ant-1.10.12/bin/rc.exe"
+      - "E:/android/apache-ant-1.10.12/bin/rc"
+      - "E:/android/android_SDK/tools/rc.com"
+      - "E:/android/android_SDK/tools/rc.exe"
+      - "E:/android/android_SDK/tools/rc"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/rc.com"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/rc.exe"
+      - "C:/Program Files/MySQL/MySQL Server 8.0/bin/rc"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/rc.com"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/rc.exe"
+      - "C:/Program Files/Microsoft SQL Server/170/Tools/Binn/rc"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/rc.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/rc.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/rc"
+      - "C:/Program Files/Git/cmd/rc.com"
+      - "C:/Program Files/Git/cmd/rc.exe"
+      - "C:/Program Files/Git/cmd/rc"
+      - "D:/My_Projects/AquaRegulator/vcpkg/rc.com"
+      - "D:/My_Projects/AquaRegulator/vcpkg/rc.exe"
+      - "D:/My_Projects/AquaRegulator/vcpkg/rc"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/rc.com"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/rc.exe"
+      - "C:/Program Files/MySQL/MySQL Shell 8.0/bin/rc"
+      - "D:/Scripts/rc.com"
+      - "D:/Scripts/rc.exe"
+      - "D:/Scripts/rc"
+      - "D:/rc.com"
+      - "D:/rc.exe"
+      - "D:/rc"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/rc.com"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/rc.exe"
+      - "C:/Users/lenovo/AppData/Local/Programs/Python/Launcher/rc"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/rc.com"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/rc.exe"
+      - "C:/Users/lenovo/AppData/Local/Microsoft/WindowsApps/rc"
+      - "C:/Users/lenovo/.dotnet/tools/rc.com"
+      - "C:/Users/lenovo/.dotnet/tools/rc.exe"
+      - "C:/Users/lenovo/.dotnet/tools/rc"
+      - "C:/Program Files/Bandizip/rc.com"
+      - "C:/Program Files/Bandizip/rc.exe"
+      - "C:/Program Files/Bandizip/rc"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/rc.com"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/rc.exe"
+      - "D:/PyCharm Community Edition 2024.3.1.1/bin/rc"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/rc.com"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/rc.exe"
+      - "C:/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/bin/rc"
+      - "D:/anaconda/rc.com"
+      - "D:/anaconda/rc.exe"
+      - "D:/anaconda/rc"
+      - "D:/anaconda/Scripts/rc.com"
+      - "D:/anaconda/Scripts/rc.exe"
+      - "D:/anaconda/Scripts/rc"
+      - "D:/anaconda/Library/bin/rc.com"
+      - "D:/anaconda/Library/bin/rc.exe"
+      - "D:/anaconda/Library/bin/rc"
+      - "C:/Users/lenovo/AppData/Roaming/npm/rc.com"
+      - "C:/Users/lenovo/AppData/Roaming/npm/rc.exe"
+      - "C:/Users/lenovo/AppData/Roaming/npm/rc"
+      - "C:/Program Files/bin/rc.com"
+      - "C:/Program Files/bin/rc.exe"
+      - "C:/Program Files/bin/rc"
+      - "C:/Program Files/sbin/rc.com"
+      - "C:/Program Files/sbin/rc.exe"
+      - "C:/Program Files/sbin/rc"
+      - "C:/Program Files/rc.com"
+      - "C:/Program Files/rc.exe"
+      - "C:/Program Files/rc"
+      - "C:/Program Files (x86)/bin/rc.com"
+      - "C:/Program Files (x86)/bin/rc.exe"
+      - "C:/Program Files (x86)/bin/rc"
+      - "C:/Program Files (x86)/sbin/rc.com"
+      - "C:/Program Files (x86)/sbin/rc.exe"
+      - "C:/Program Files (x86)/sbin/rc"
+      - "C:/Program Files (x86)/rc.com"
+      - "C:/Program Files (x86)/rc.exe"
+      - "C:/Program Files (x86)/rc"
+      - "C:/Program Files/CMake/bin/rc.com"
+      - "C:/Program Files/CMake/bin/rc.exe"
+      - "C:/Program Files/CMake/bin/rc"
+      - "C:/Program Files/CMake/sbin/rc.com"
+      - "C:/Program Files/CMake/sbin/rc.exe"
+      - "C:/Program Files/CMake/sbin/rc"
+      - "C:/Program Files/CMake/rc.com"
+      - "C:/Program Files/CMake/rc.exe"
+      - "C:/Program Files/CMake/rc"
+      - "C:/Program Files (x86)/AquaRegulator/bin/rc.com"
+      - "C:/Program Files (x86)/AquaRegulator/bin/rc.exe"
+      - "C:/Program Files (x86)/AquaRegulator/bin/rc"
+      - "C:/Program Files (x86)/AquaRegulator/sbin/rc.com"
+      - "C:/Program Files (x86)/AquaRegulator/sbin/rc.exe"
+      - "C:/Program Files (x86)/AquaRegulator/sbin/rc"
+      - "C:/Program Files (x86)/AquaRegulator/rc.com"
+      - "C:/Program Files (x86)/AquaRegulator/rc.exe"
+      - "C:/Program Files (x86)/AquaRegulator/rc"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\tools\\\\trae-gopls\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\workspaces\\\\0d2d6906\\\\versions\\\\node\\\\current"
+        - "c:\\\\Users\\\\lenovo\\\\.trae-cn\\\\sdks\\\\versions\\\\node\\\\current"
+        - "C:\\Program Files\\PowerShell\\7"
+        - "c:\\Users\\lenovo\\.trae-cn\\tools\\trae-gopls\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\workspaces\\0d2d6906\\versions\\node\\current"
+        - "c:\\Users\\lenovo\\.trae-cn\\sdks\\versions\\node\\current"
+        - "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"
+        - "C:\\Python314\\Scripts\\"
+        - "C:\\Python314\\"
+        - "D:\\VMware\\bin\\"
+        - "C:\\Windows\\system32"
+        - "C:\\Windows"
+        - "C:\\Windows\\System32\\Wbem"
+        - "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\Windows\\System32\\OpenSSH\\"
+        - "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR"
+        - "D:\\mingw64\\bin"
+        - "C:\\ProgramData\\chocolatey\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Program Files\\Java\\jdk1.8.0_201\\bin"
+        - "E:\\android\\apache-ant-1.10.12\\bin"
+        - "E:\\android\\android_SDK\\tools"
+        - "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin"
+        - "C:\\Program Files\\Microsoft SQL Server\\170\\Tools\\Binn\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "D:\\My_Projects\\AquaRegulator\\vcpkg"
+        - "C:\\Program Files\\PowerShell\\7\\"
+        - "C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\"
+        - "D:\\Scripts\\"
+        - "D:\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\lenovo\\.dotnet\\tools"
+        - "C:\\Program Files\\Bandizip\\"
+        - "D:\\PyCharm Community Edition 2024.3.1.1\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "D:\\anaconda"
+        - "D:\\anaconda\\Scripts"
+        - "D:\\anaconda\\Library\\bin"
+        - "C:\\Users\\lenovo\\AppData\\Roaming\\npm"
+        - "C:\\Users\\lenovo\\AppData\\Local\\nvm"
+        - "C:\\nvm4w\\nodejs"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/AquaRegulator"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/AquaRegulator"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-qvyxuc"
+      binary: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-qvyxuc"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-qvyxuc'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_51a44.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.4.0+6e61e96ac
+        鐢熸垚鍚姩鏃堕棿涓?2026/4/7 20:38:15銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qvyxuc\\cmTC_51a44.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qvyxuc\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_51a44.dir\\Debug\\cmTC_51a44.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_51a44.dir\\Debug\\cmTC_51a44.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_51a44.dir\\Debug\\cmTC_51a44.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_51a44.dir\\Debug\\\\" /Fd"cmTC_51a44.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.50.35728 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_51a44.dir\\Debug\\\\" /Fd"cmTC_51a44.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          CMakeCCompilerABI.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qvyxuc\\Debug\\cmTC_51a44.exe" /INCREMENTAL /ILK:"cmTC_51a44.dir\\Debug\\cmTC_51a44.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-qvyxuc/Debug/cmTC_51a44.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-qvyxuc/Debug/cmTC_51a44.lib" /MACHINE:X64  /machine:x64 cmTC_51a44.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_51a44.vcxproj -> D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qvyxuc\\Debug\\cmTC_51a44.exe
+        FinalizeBuildStatus:
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_51a44.dir\\Debug\\cmTC_51a44.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_51a44.dir\\Debug\\cmTC_51a44.tlog\\cmTC_51a44.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qvyxuc\\cmTC_51a44.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+        
+        宸叉垚鍔熺敓鎴愩€?
+            0 涓鍛?
+            0 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:02.20
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeDetermineLinkerId.cmake:38 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the C compiler's linker: "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.50.35728.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-si6vjf"
+      binary: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-si6vjf"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-si6vjf'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_7cb8d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.4.0+6e61e96ac
+        鐢熸垚鍚姩鏃堕棿涓?2026/4/7 20:38:22銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-si6vjf\\cmTC_7cb8d.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-si6vjf\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_7cb8d.dir\\Debug\\cmTC_7cb8d.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_7cb8d.dir\\Debug\\cmTC_7cb8d.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_7cb8d.dir\\Debug\\cmTC_7cb8d.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_7cb8d.dir\\Debug\\\\" /Fd"cmTC_7cb8d.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.50.35728 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_7cb8d.dir\\Debug\\\\" /Fd"cmTC_7cb8d.dir\\Debug\\vc145.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          CMakeCXXCompilerABI.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-si6vjf\\Debug\\cmTC_7cb8d.exe" /INCREMENTAL /ILK:"cmTC_7cb8d.dir\\Debug\\cmTC_7cb8d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-si6vjf/Debug/cmTC_7cb8d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-si6vjf/Debug/cmTC_7cb8d.lib" /MACHINE:X64  /machine:x64 cmTC_7cb8d.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_7cb8d.vcxproj -> D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-si6vjf\\Debug\\cmTC_7cb8d.exe
+        FinalizeBuildStatus:
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_7cb8d.dir\\Debug\\cmTC_7cb8d.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_7cb8d.dir\\Debug\\cmTC_7cb8d.tlog\\cmTC_7cb8d.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-si6vjf\\cmTC_7cb8d.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+        
+        宸叉垚鍔熺敓鎴愩€?
+            0 涓鍛?
+            0 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:02.13
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeDetermineLinkerId.cmake:38 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/18/Enterprise/VC/Tools/MSVC/14.50.35717/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.50.35728.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckCSourceCompiles.cmake:103 (cmake_check_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake:160 (check_c_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake:226 (_threads_check_libc)"
+      - "CMakeLists.txt:7 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-ukwxcx"
+      binary: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-ukwxcx"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-ukwxcx'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_4b9c7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.4.0+6e61e96ac
+        鐢熸垚鍚姩鏃堕棿涓?2026/4/7 20:38:28銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\cmTC_4b9c7.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_4b9c7.dir\\Debug\\cmTC_4b9c7.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_4b9c7.dir\\Debug\\cmTC_4b9c7.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_4b9c7.dir\\Debug\\cmTC_4b9c7.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_4b9c7.dir\\Debug\\\\" /Fd"cmTC_4b9c7.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\src.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.50.35728 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_4b9c7.dir\\Debug\\\\" /Fd"cmTC_4b9c7.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\src.c"
+          src.c
+        D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\src.c(1,10): error C1083: 鏃犳硶鎵撳紑鍖呮嫭鏂囦欢: 鈥減thread.h鈥? No such file or directory [D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\cmTC_4b9c7.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\cmTC_4b9c7.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\cmTC_4b9c7.vcxproj鈥?榛樿鐩爣) (1) ->
+        (ClCompile 鐩爣) -> 
+          D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\src.c(1,10): error C1083: 鏃犳硶鎵撳紑鍖呮嫭鏂囦欢: 鈥減thread.h鈥? No such file or directory [D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ukwxcx\\cmTC_4b9c7.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.95
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckLibraryExists.cmake:154 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake:175 (check_library_exists)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake:238 (_threads_check_lib)"
+      - "CMakeLists.txt:7 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-r8b2bz"
+      binary: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-r8b2bz"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-r8b2bz'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_504c8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.4.0+6e61e96ac
+        鐢熸垚鍚姩鏃堕棿涓?2026/4/7 20:38:33銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-r8b2bz\\cmTC_504c8.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-r8b2bz\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_504c8.dir\\Debug\\cmTC_504c8.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_504c8.dir\\Debug\\cmTC_504c8.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_504c8.dir\\Debug\\cmTC_504c8.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_504c8.dir\\Debug\\\\" /Fd"cmTC_504c8.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-r8b2bz\\CheckFunctionExists.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.50.35728 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_504c8.dir\\Debug\\\\" /Fd"cmTC_504c8.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-r8b2bz\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-r8b2bz\\Debug\\cmTC_504c8.exe" /INCREMENTAL /ILK:"cmTC_504c8.dir\\Debug\\cmTC_504c8.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-r8b2bz/Debug/cmTC_504c8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-r8b2bz/Debug/cmTC_504c8.lib" /MACHINE:X64  /machine:x64 cmTC_504c8.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減threads.lib鈥?[D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-r8b2bz\\cmTC_504c8.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-r8b2bz\\cmTC_504c8.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-r8b2bz\\cmTC_504c8.vcxproj鈥?榛樿鐩爣) (1) ->
+        (Link 鐩爣) -> 
+          LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減threads.lib鈥?[D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-r8b2bz\\cmTC_504c8.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:01.26
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckLibraryExists.cmake:154 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake:175 (check_library_exists)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindThreads.cmake:239 (_threads_check_lib)"
+      - "CMakeLists.txt:7 (find_package)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-dbv7zo"
+      binary: "D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-dbv7zo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-dbv7zo'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Enterprise/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8d47a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 18.4.0+6e61e96ac
+        鐢熸垚鍚姩鏃堕棿涓?2026/4/7 20:38:38銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dbv7zo\\cmTC_8d47a.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dbv7zo\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_8d47a.dir\\Debug\\cmTC_8d47a.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_8d47a.dir\\Debug\\cmTC_8d47a.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_8d47a.dir\\Debug\\cmTC_8d47a.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_8d47a.dir\\Debug\\\\" /Fd"cmTC_8d47a.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dbv7zo\\CheckFunctionExists.c"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.50.35728 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_8d47a.dir\\Debug\\\\" /Fd"cmTC_8d47a.dir\\Debug\\vc145.pdb" /external:W1 /TC /errorReport:queue "D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dbv7zo\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Enterprise\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dbv7zo\\Debug\\cmTC_8d47a.exe" /INCREMENTAL /ILK:"cmTC_8d47a.dir\\Debug\\cmTC_8d47a.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-dbv7zo/Debug/cmTC_8d47a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"D:/My_Projects/AquaRegulator/src/aquaregulatorserver/aquaregulators-refactor-enterprise-arch/src/build/CMakeFiles/CMakeScratch/TryCompile-dbv7zo/Debug/cmTC_8d47a.lib" /MACHINE:X64  /machine:x64 cmTC_8d47a.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減thread.lib鈥?[D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dbv7zo\\cmTC_8d47a.vcxproj]
+        宸插畬鎴愮敓鎴愰」鐩€淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dbv7zo\\cmTC_8d47a.vcxproj鈥?榛樿鐩爣)鐨勬搷浣?- 澶辫触銆?
+        
+        鐢熸垚澶辫触銆?
+        
+        鈥淒:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dbv7zo\\cmTC_8d47a.vcxproj鈥?榛樿鐩爣) (1) ->
+        (Link 鐩爣) -> 
+          LINK : fatal error LNK1104: 鏃犳硶鎵撳紑鏂囦欢鈥減thread.lib鈥?[D:\\My_Projects\\AquaRegulator\\src\\aquaregulatorserver\\aquaregulators-refactor-enterprise-arch\\src\\build\\CMakeFiles\\CMakeScratch\\TryCompile-dbv7zo\\cmTC_8d47a.vcxproj]
+        
+            0 涓鍛?
+            1 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:01.23
+        
+      exitCode: 1
+...

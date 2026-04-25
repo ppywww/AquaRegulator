@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\My_Projects\AquaRegulator\src\aquaregulatorserver\aquaregulators-refactor-enterprise-arch\src\build\CMakeFiles\8258274889d3ac59e59fb65745276d30\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7B6C2E3C-FF3F-397D-81C7-2E71379A0549}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
